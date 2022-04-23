@@ -10,7 +10,7 @@
 
 [<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/JJvSGnI5WYh0Xl9qw9YGRA)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/RskiJkrtns)
-[<img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://youtube.com/channel/UCLwjIAMS5wzEf4OAE2162yA
+[<img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://youtube.com/channel/UCLwjIAMS5wzEf4OAE2162yA)
 [<img src="https://img.shields.io/badge/github-%23E4405F.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/RskiJkrtns)
 
 ### I &nbsp;Personal Stuffs
