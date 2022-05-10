@@ -15,17 +15,17 @@
 
 ### I &nbsp;Personal Stuffs
 
-- 💻 I'm currently learning `JavaScript` ⚗.
+HELLO SAYA RISKK, SAYA SISWA BERUMUR TAHUN.
 
-- 🤓 I'm a copy paste master.
+SAYA BUKAN PROGRAMER ATAU HACKER
 
-- 🔭 I'm trying to set a record, watching anime 1 season in a day.
+TETAPLAH BEBAN
 
-- 📝 Thanks To [`Team Provider Xploit`](https://github.com/RskiJkrtns).
+saya hanya pemula dan wibu elite.
 
-- 🎩 Thanks To All Mastah.
+saya bukan programmer atau hacker, saya hanya tertarik dengan dunia pemrograman
 
-- Languages: &nbsp;
+untuk saat ini saya sedang mempelajari javascript, html & css, python dan lainnya
  
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
