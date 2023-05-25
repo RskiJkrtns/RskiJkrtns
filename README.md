@@ -15,13 +15,9 @@
 
 ### I &nbsp;Personal Stuffs
 
-HELLO SAYA RISKK, SAYA SISWA BERUMUR TAHUN.
+HELLO SAYA RISKI, SAYA SISWA BERUMUR TAHUN.
 
-SAYA BUKAN PROGRAMER ATAU HACKER
-
-TETAPLAH BEBAN
-
-saya hanya pemula dan wibu elite.
+Saya hanya pemula dan wibu elite.
 
 saya bukan programmer atau hacker, saya hanya tertarik dengan dunia pemrograman
 
